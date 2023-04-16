@@ -1,3 +1,3 @@
-export interface LayoutPage<T = {}> extends React.FC<T> {
+export interface LayoutPage<T = object> extends React.FC<T> {
     getLayout?: (page: JSX.Element) => JSX.Element;
 }
