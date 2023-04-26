@@ -7,7 +7,7 @@ import ContentTop from 'src/components/contentTop';
 const Home: LayoutPage = () => {
   return (
     <Box>
-      <ContentTop description="摸象AI GPT中文导航站" />
+      <ContentTop description="GPT0 中文AI导航站" />
       <HStack
         alignItems="start"
         columnGap="15px"

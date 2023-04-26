@@ -1,10 +1,88 @@
 [
     {
-        "name": "社群教程",
+        "name": "ChatGPT免费体验（更新）",
         "icon": "./images/menu/icon.svg",
         "site": [
             {
-                "name": "社群教程",
+                "name": "ChatGPT注册教程",
+                "description": "保姆级教程自动发货",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "科学上网工具",
+                "description": "领取保姆级教程",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            }
+        ]
+    },
+    {
+        "name": "账号服务",
+        "icon": "./images/menu/icon.svg",
+        "site": [
+            {
+                "name": "ChatGPT注册教程",
+                "description": "保姆级教程自动发货",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "ChatGPT账号代注册",
+                "description": "代注册或直接购买账号",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "ChatGPT PLUS代开",
+                "description": "领取保姆级教程",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "科学上网工具",
+                "description": "领取保姆级教程",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            }
+        ]
+    },
+    {
+        "name": "教程",
+        "icon": "./images/menu/icon.svg",
+        "site": [
+            {
+                "name": "ChatGPT Prompt咒语教程",
+                "description": "从零开始教你成为Prompt工程师",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "ChatGPT PLUS代开",
+                "description": "领取保姆级教程",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "科学上网工具",
+                "description": "领取保姆级教程",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            }
+        ]
+    },
+    {
+        "name": "社群",
+        "icon": "./images/menu/icon.svg",
+        "site": [
+            {
+                "name": "账号代注册",
+                "description": "领取保姆级教程",
+                "url": "https://t.zsxq.com/0d9Rtx1TR",
+                "image": "./images/siteai/zsxq-protrait.png"
+            },
+            {
+                "name": "账号代注册",
                 "description": "领取保姆级教程",
                 "url": "https://t.zsxq.com/0d9Rtx1TR",
                 "image": "./images/siteai/zsxq-protrait.png"
